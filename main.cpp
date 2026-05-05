@@ -159,7 +159,7 @@ void displaySystemInfo() {
     cout << "\n" << BOLD << "SYSTEM INFORMATION" << RESET << "\n";
     cout << "-----------------------------------------------\n\n";
     
-    cout << "Canteen: IIT Patna Central Canteen\n";
+    cout << "Canteen: Kitchen ETTE Canteen\n";
     cout << "Chef: Master Chef Sharma\n";
     cout << "Hours: 8:00 AM - 10:00 PM\n";
     cout << "Date: ";
